@@ -1,0 +1,29 @@
+.header{
+    background: linear-gradient(to left,white, pink);
+    width: 100%;
+    padding: 15px;
+}
+.navigation{
+    background: linear-gradient(to right,white, green);
+    width: 100%;
+    padding: 15px;
+    font-weight: bolder;
+    text-decoration: none;   
+}
+.main-content{
+background: linear-gradient(to right,white,purple);
+width: 100%;
+padding: 15px;
+}
+
+.table{
+    background: linear-gradient(to left, white,gray
+    );
+    width: 100%;
+    padding: 15px;
+}
+.footer{
+    background: linear-gradient(to right, white,green);
+    width: 100%;
+    padding: 15px;
+}
